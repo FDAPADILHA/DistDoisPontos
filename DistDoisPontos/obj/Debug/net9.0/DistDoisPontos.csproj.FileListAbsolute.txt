@@ -1,0 +1,14 @@
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\bin\Debug\net9.0\DistDoisPontos.exe
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\bin\Debug\net9.0\DistDoisPontos.deps.json
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\bin\Debug\net9.0\DistDoisPontos.runtimeconfig.json
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\bin\Debug\net9.0\DistDoisPontos.dll
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\bin\Debug\net9.0\DistDoisPontos.pdb
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.AssemblyInfoInputs.cache
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.AssemblyInfo.cs
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.csproj.CoreCompileInputs.cache
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.dll
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\refint\DistDoisPontos.dll
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.pdb
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\DistDoisPontos.genruntimeconfig.cache
+c:\Users\XPS\Desktop\DistDoisPontos\DistDoisPontos\obj\Debug\net9.0\ref\DistDoisPontos.dll
